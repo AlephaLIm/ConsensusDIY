@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\NPstuff\Consensus\ConsensusChallenges\bin\Debug\ConsensusChallenges.exe.config
+C:\Users\acer\Documents\NPstuff\Consensus\ConsensusChallenges\bin\Debug\ConsensusChallenges.exe
+C:\Users\acer\Documents\NPstuff\Consensus\ConsensusChallenges\bin\Debug\ConsensusChallenges.pdb
+C:\Users\acer\Documents\NPstuff\Consensus\ConsensusChallenges\obj\Debug\ConsensusChallenges.csprojAssemblyReference.cache
+C:\Users\acer\Documents\NPstuff\Consensus\ConsensusChallenges\obj\Debug\ConsensusChallenges.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\NPstuff\Consensus\ConsensusChallenges\obj\Debug\ConsensusChallenges.exe
+C:\Users\acer\Documents\NPstuff\Consensus\ConsensusChallenges\obj\Debug\ConsensusChallenges.pdb
